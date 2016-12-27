@@ -1,0 +1,16 @@
+body {
+  margin-top: 50px; 
+  background: url("http://www.css3.info/wp-content/themes/new_css3/img/betweengrassandsky.png")no-repeat center center fixed;  
+  background-size: cover;
+}
+.thumbnail{
+  float: center;
+  margin: 25px;
+  border-radius: 50%;
+ display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+h1, h2, h3, li, p, footer{
+  text-align: center;
+}
